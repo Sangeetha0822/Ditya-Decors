@@ -1,5 +1,5 @@
 # Ditya-Decors
 
-##Functions
-** Event Booking
-** Checking Available Locations
+##  Functions
+**  Event Booking
+**  Checking Available Locations
